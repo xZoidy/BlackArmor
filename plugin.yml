@@ -1,0 +1,4 @@
+name: BlackArmor
+main: BlackTeam\BlackArmor\Main
+version: 1.0.0
+api: [3.2.0]
